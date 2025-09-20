@@ -1,8 +1,0 @@
-[2025-08-31 16:21:07] local.ERROR: Command "sser" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"sser\" is not defined. at /home/rafly-nur-ihvandi/Documents/PROJECT/CUSTIX/pelanggan-backend/vendor/symfony/console/Application.php:737)
-[stacktrace]
-#0 /home/rafly-nur-ihvandi/Documents/PROJECT/CUSTIX/pelanggan-backend/vendor/symfony/console/Application.php(266): Symfony\\Component\\Console\\Application->find()
-#1 /home/rafly-nur-ihvandi/Documents/PROJECT/CUSTIX/pelanggan-backend/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
-#2 /home/rafly-nur-ihvandi/Documents/PROJECT/CUSTIX/pelanggan-backend/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run()
-#3 /home/rafly-nur-ihvandi/Documents/PROJECT/CUSTIX/pelanggan-backend/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
-#4 {main}
-"} 
